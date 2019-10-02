@@ -1,7 +1,7 @@
 function isLeapYear(yr)
 {
-    let checkNum = typeof yr;
-    if ( checkNum === 'number')
+    let checkYr = typeof yr;
+    if ( checkYr === 'number')
     {
     if (yr > 0)
     {
